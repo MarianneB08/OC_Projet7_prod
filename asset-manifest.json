@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.910904b7.css",
+    "main.js": "/static/js/main.63eb7a0f.js",
+    "static/media/banner_about_desktop.jpg": "/static/media/banner_about_desktop.281adf8d0ff3f3098c09.jpg",
+    "static/media/banner_home_desktop.jpg": "/static/media/banner_home_desktop.b821a36071d308a1cdeb.jpg",
+    "static/media/banner_about_mobile.jpg": "/static/media/banner_about_mobile.919ee7f05e7d11a662f3.jpg",
+    "static/media/banner_home_mobile.jpg": "/static/media/banner_home_mobile.e89ec979db7973de8a22.jpg",
+    "static/media/logo_header.svg": "/static/media/logo_header.759702e80d2cca5e6d54b41ca6682c02.svg",
+    "static/media/logo_footer.svg": "/static/media/logo_footer.ee689fd9409d1b5a898b4247819d8a00.svg",
+    "index.html": "/index.html",
+    "static/media/arrow_up.svg": "/static/media/arrow_up.ecf1488896136f153bb1ae871e39b72d.svg",
+    "static/media/arrow_down.svg": "/static/media/arrow_down.b052dd29e3a2bab76700eee79e133c37.svg",
+    "static/media/grey_star.svg": "/static/media/grey_star.6870d270bf24c77b6cb6da4a51d85c40.svg",
+    "static/media/pink_star.svg": "/static/media/pink_star.436cdaa58c6c68e5ff88584373bcd2b1.svg",
+    "static/media/arrow_right.svg": "/static/media/arrow_right.88153a5d119c2744ffe34dca1ef843df.svg",
+    "static/media/arrow_left.svg": "/static/media/arrow_left.19918a1634b1441a25ae0b50e6b1f85b.svg",
+    "main.910904b7.css.map": "/static/css/main.910904b7.css.map",
+    "main.63eb7a0f.js.map": "/static/js/main.63eb7a0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.910904b7.css",
+    "static/js/main.63eb7a0f.js"
+  ]
+}
